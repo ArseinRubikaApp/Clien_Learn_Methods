@@ -13,14 +13,22 @@
   },
   {
     "Tasle": "changeGroupLink",
-    "Tdovom": "changeGroupLink\n\nاین متود لینک گروه رو بهتون میده اما به شرطی که شما آدمین گروه باشید\n\nتنها مقداری که میگیره گوید گروه است"
+    "Tdovom": "changeGroupLink\n\nاین متود لینک گروه رو تغیر میده اما به شرطی که شما آدمین گروه باشید\n\nتنها مقداری که میگیره گوید گروه است"
   },
   {
     "Tasle": "changeChannelLink",
-    "Tdovom": "changeChannelLink\n\nاین متود لینک کانال رو بهتون میده اما به شرطی که شما آدمین کانال باشید\n\nتنها مقداری که میگیره گوید کانال است"
+    "Tdovom": "changeChannelLink\n\nاین متود لینک کانال تغیر میده اما به شرطی که شما آدمین کانال باشید\n\nتنها مقداری که میگیره گوید کانال است"
   },
   {
     "Tasle": "setGroupTimer",
     "Tdovom": "setGroupTimer\n\nاین متود گروه رو در حالت آرام قرار میده تنها مقدار هایی که میگیرند\n\nاول گوید گروه\n\nدوم زمان تایمر\n\n\nبرای مثال:\napp.setGroupTimer(\"girjurjeheyye\",10)"
+  },
+  {
+    "Tasle": "deleteGroup",
+    "Tdovom": "deleteGroup\n\nاین متود گروه رو حذف میکنه\n\nتنها مقداری که میگیره گوید گروه است"
+  },
+  {
+    "Tasle": "getStickerSets",
+    "Tdovom": "getStickerSets\n\nاین متود اطلاعات استیکر های مربوط به ایموجی رو بهتون میده\n\n\nبرای مثال:\n\napp.getStickerSets(\"😁\")\n\nتنها مقداری که میگیره ایموجی است"
   }
 ]
