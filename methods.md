@@ -21,6 +21,6 @@
   },
   {
     "Tasle": "setGroupTimer",
-    "Tdovom": "setGroupTimer\n\nاین متود گروه رو در حالت آرام قرار میده تنها مقدار هایی که میگیرند\n\nاول گوید گروه\n\nدوم زمان تایمر\n\n\nبرای مثال:\napp.setGroupTimer(\"girjurjeheyye\",1000)"
+    "Tdovom": "setGroupTimer\n\nاین متود گروه رو در حالت آرام قرار میده تنها مقدار هایی که میگیرند\n\nاول گوید گروه\n\nدوم زمان تایمر\n\n\nبرای مثال:\napp.setGroupTimer(\"girjurjeheyye\",10)"
   }
 ]
