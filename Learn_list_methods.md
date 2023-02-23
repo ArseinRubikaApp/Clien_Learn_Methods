@@ -37,6 +37,6 @@
   {
     "Tasle": "getStickerSets",
     "Tdovom": "getStickerSets\n\nاین متود اطلاعات استیکر های مربوط به ایموجی رو بهتون میده\n\n\nبرای مثال:\n\napp.getStickerSets(\"😁\")\n\nتنها مقداری که میگیره ایموجی است",
-    "Photo_image": "https://s2.uupload.ir/files/بارگیری_(1)_92li.jpeg"
+    "Photo_image": "https://s2.uupload.ir/files/screenshot_۲۰۲۳۰۲۲۳_۱۸۳۳۲۱_dte5.jpg"
   }
 ]
