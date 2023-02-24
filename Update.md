@@ -1,4 +1,4 @@
 {
-  "Version": "2.0",
-  "Caption": "رفع باگ ها"
+  "Version": "1.0",
+  "Caption": false
 }
