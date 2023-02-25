@@ -38,5 +38,15 @@
     "Tasle": "getStickerSets",
     "Tdovom": "getStickerSets\n\nاین متود اطلاعات استیکر های مربوط به ایموجی رو بهتون میده\n\n\nبرای مثال:\n\napp.getStickerSets(\"😁\")\n\nتنها مقداری که میگیره ایموجی است",
     "Photo_image": false
+  },
+  {
+    "Tasle": "getInfoByUsername",
+    "Tdovom": "getInfoByUsername\n\nاین متود اطلاعات اکانت طرف بهتون میده\n\nفقط آیدی طرف رو بدون @ وارد کنید\n\ntest = app.getInfoByUsername(\"ArseinTeam\")\n\nprint(test)",
+    "Photo_image": false
+  },
+  {
+    "Tasle": "banGroupMember",
+    "Tdovom": "banGroupMember\n\nاین متود کاربر مورد نظر رو از گروه حذف میکنه\n\nتنها مقداری که میگیره گوید گپ و گوید اکانت طرفه\n\napp.banGroupMember(\" g0CgKBr0fd6c0216e264e904d5021b88\", [\"u0CvB3x0d02d4dbde7df7096f59a5a2d\"])",
+    "Photo_image": false
   }
 ]
