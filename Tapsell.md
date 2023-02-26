@@ -1,6 +1,6 @@
 {
   "start": true,
   "title": "آرسین روبیکا",
-  "icon": "https://s2.uupload.ir/files/images_(1)_ih4t.jpeg",
+  "icon": "https://s2.uupload.ir/files/img_20230226_131231_346_hlo7.jpg",
   "goSafeh": "ArseinTeam"
 }
