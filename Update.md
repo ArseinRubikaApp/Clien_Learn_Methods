@@ -1,4 +1,4 @@
 {
-  "Version": "3.0",
+  "Version": "2.0",
   "Caption": false
 }
