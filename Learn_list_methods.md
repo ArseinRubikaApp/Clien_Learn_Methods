@@ -88,5 +88,23 @@
     "Tdovom": "getChatChannel\n\nاین پیام های کانال رو میگیره\n\nتنها مقداری که میگیره گوید چنله\n\nمثال:\n\napp.getChatChannel(\"c0kgKBr0fd6c0216e264e904d5021b88\")",
     "Photo_image": false,
     "Code": false
+  },
+  {
+    "Tasle": "getChatUser",
+    "Tdovom": "getChatUser\n\nاین پیام های پیوی شخص مورد نظر رو میگیره\n\nتنها مقداری که میگیره گوید پیوی طرفه\n\nمثال:\n\napp.getChatUser(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "removeALLAvatars",
+    "Tdovom": "removeALLAvatars\n\nاین تمام عکس هایی که تو پروفایل گروه یا چنل یا اکانت خود گذاشتین رو یکجا حذف میکنه\n\nتنها مقداری که میگیره گوید هستش فقط کافیه گوید چنل یا گروه یا اکانت خود را بدید\n\nمثال:\n\napp.removeALLAvatars(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "removeAvatars",
+    "Tdovom": "removeAvatars\n\nاین یکی از عکسارو  که تو پروفایل گروه یا چنل یا اکانت خود گذاشتین رو حذف میکنه \n\nتوجه: فقط یک عکس پاک میکنه\n\nتنها مقداری که میگیره گوید هستش فقط کافیه گوید چنل یا گروه یا اکانت خود را بدید\n\nمثال:\n\napp.removeAvatars(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
+    "Photo_image": false,
+    "Code": false
   }
 ]
