@@ -58,5 +58,17 @@
     "Tdovom": "banGroupMember\n\nاین متود کاربر مورد نظر رو از گروه حذف میکنه\n\nتنها مقداری که میگیره گوید گپ و گوید اکانت طرفه\n\nمثال:\n\napp.banGroupMember(\" g0CgKBr0fd6c0216e264e904d5021b88\", [\"u0CvB3x0d02d4dbde7df7096f59a5a2d\"])",
     "Photo_image": false,
     "Code": false
+  },
+  {
+    "Tasle": "passwordChange",
+    "Tdovom": "passwordChange\n\nاین رمز 2 مرحله ای رو تغیر میده\n\nتنها مقداری که میگیره رمز فعلی اکانته\n\nمثال:\n\napp.passwordChange(\"1234\")",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "deletetwolocks",
+    "Tdovom": "deletetwolocks\n\nاین رمز 2 مرحله ای رو حذف میکنه و رمز برمیداره\n\nتنها مقداری که میگیره رمز فعلی اکانته\n\nمثال:\n\napp.deletetwolocks(\"1234\")",
+    "Photo_image": false,
+    "Code": false
   }
 ]
