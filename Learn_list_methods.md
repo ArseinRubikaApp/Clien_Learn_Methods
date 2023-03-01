@@ -106,5 +106,23 @@
     "Tdovom": "removeAvatars\n\nاین یکی از عکسارو  که تو پروفایل گروه یا چنل یا اکانت خود گذاشتین رو حذف میکنه \n\nتوجه: فقط یک عکس پاک میکنه\n\nتنها مقداری که میگیره گوید هستش فقط کافیه گوید چنل یا گروه یا اکانت خود را بدید\n\nمثال:\n\napp.removeAvatars(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
     "Photo_image": false,
     "Code": false
+  },
+  {
+    "Tasle": "block",
+    "Tdovom": "block\n\nاین کاربر مورد نظر رو بلاک میکنه \n\nتنها مقداری که میگیره گوید کاربر مورد نظره\n\nمثال:\n\napp.block(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "unblock",
+    "Tdovom": "unblock\n\nاین کاربر مورد نظر رو از بلاک درمیاره\n\nتنها مقداری که میگیره گوید کاربر مورد نظره\n\nمثال:\n\napp.unblock(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "getAvatars",
+    "Tdovom": "getAvatars\n\nاین اطلاعات تمام پروفایل های گروه یا چنل یا پیوی طرف رو میگیره\n\nتنها مقداری که میگیره گوید کاربر یا گروه یا چنله\n\nمثال:\n\napp.getAvatars(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
+    "Photo_image": false,
+    "Code": false
   }
 ]
