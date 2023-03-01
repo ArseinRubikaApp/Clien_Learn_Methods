@@ -70,5 +70,11 @@
     "Tdovom": "deletetwolocks\n\nاین رمز 2 مرحله ای رو حذف میکنه و رمز برمیداره\n\nتنها مقداری که میگیره رمز فعلی اکانته\n\nمثال:\n\napp.deletetwolocks(\"1234\")",
     "Photo_image": false,
     "Code": false
+  },
+  {
+    "Tasle": "twolocks",
+    "Tdovom": "twolocks\n\nاین رمز 2 مرحله ای ای رو ایجاد میکنه\n\nتنها مقداری که میگیره  \n\nاول رمزی که میخوایی بزاری\n\nدوم راهنما واسه رمز\n\nمثال:\n\napp.twolocks(\"1379\",\"سال تولدم\")",
+    "Photo_image": false,
+    "Code": false
   }
 ]
