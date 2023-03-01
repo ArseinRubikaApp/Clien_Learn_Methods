@@ -76,5 +76,17 @@
     "Tdovom": "twolocks\n\nاین رمز 2 مرحله ای ای رو ایجاد میکنه\n\nتنها مقداری که میگیره  \n\nاول رمزی که میخوایی بزاری\n\nدوم راهنما واسه رمز\n\nمثال:\n\napp.twolocks(\"1379\",\"سال تولدم\")",
     "Photo_image": false,
     "Code": false
+  },
+  {
+    "Tasle": "getChatGroup",
+    "Tdovom": "getChatGroup\n\nاین پیام های گروه رو میگیره\n\nتنها مقداری که میگیره گوید گروهه\n\nمثال:\n\napp.getChatGroup(\"g0CgKBr0fd6c0216e264e904d5021b88\")",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "getChatChannel",
+    "Tdovom": "getChatChannel\n\nاین پیام های کانال رو میگیره\n\nتنها مقداری که میگیره گوید چنله\n\nمثال:\n\napp.getChatChannel(\"c0kgKBr0fd6c0216e264e904d5021b88\")",
+    "Photo_image": false,
+    "Code": false
   }
 ]
