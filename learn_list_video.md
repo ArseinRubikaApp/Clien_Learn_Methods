@@ -7,5 +7,9 @@
   {
     "Tavale_video": "درآوردن گوید کانال",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/rFmUb/vt/frame"
+  },
+  {
+    "Tavale_video": "درآوردن گوید گروه",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/ZCeB6/vt/frame"
   }
 ]
