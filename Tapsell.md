@@ -1,6 +1,6 @@
 {
-  "start": false,
-  "title": "Roman| رمان",
-  "icon": "https://s2.uupload.ir/files/images_(4)_lbfv.jpeg",
-  "goSafeh": "RoMaN_jvd"
+  "start": true,
+  "title": "Ⲁ Ⲙ Ꭵ R̟  ⲎⲀⲤⲔ",
+  "icon": "https://s2.uupload.ir/files/img_20230302_114946_216_825z.jpg",
+  "goSafeh": "mester_amir_hack"
 }
