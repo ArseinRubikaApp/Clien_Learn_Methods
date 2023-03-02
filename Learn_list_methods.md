@@ -130,5 +130,11 @@
     "Tdovom": "search_inaccount\n\nاین متن مورد نظر رو از داخل محتواهای اکانتتون سرچ میکنه\n\nتنها مقداری که میگیره متنی که میخواهید سرچ کنه\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.search_inaccount(\"روبیکا\")",
     "Photo_image": false,
     "Code": false
+  },
+  {
+    "Tasle": "search_inrubika",
+    "Tdovom": "search_inrubika\n\nاین متن مورد نظر رو از داخل محتواهای کل روبیکا سرچ میکنه\n\nتنها مقداری که میگیره متنی که میخواهید سرچ کنه\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.search_inrubika(\"روبیکا\")",
+    "Photo_image": false,
+    "Code": false
   }
 ]
