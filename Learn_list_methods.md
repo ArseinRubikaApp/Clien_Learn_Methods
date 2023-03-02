@@ -1,7 +1,7 @@
 [
   {
     "Tasle": "getGroupInfo",
-    "Tdovom": "getGroupInfo\n\nاین متود اطلاعات گپ بدست میاره \n\nتنها مقداری که میگیره گوید گپ هستش\n\nمثال:\n\napp.getGroupInfo('g0CgKBr0fd6c0216e264e904d5021b88')",
+    "Tdovom": "getGroupInfo\n\nاین متود اطلاعات گپ بدست میاره \n\nتنها مقداری که میگیره گوید گپ هستش\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.getGroupInfo('g0CgKBr0fd6c0216e264e904d5021b88')",
     "Photo_image": false,
     "Code": false
   },
