@@ -21,6 +21,6 @@
   },
   {
     "Tavale_video": "نوشتن سورسی ساده",
-    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/leU4G/vt/frame"
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/3QHkp/vt/frame"
   }
 ]
