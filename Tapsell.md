@@ -1,6 +1,6 @@
 {
-  "start": false,
-  "title": "Ⲁ Ⲙ Ꭵ R̟  ⲎⲀⲤⲔ",
-  "icon": "https://s2.uupload.ir/files/img_20230302_114946_216_825z.jpg",
-  "goSafeh": "mester_amir_hack"
+  "start": true,
+  "title": "MR Code",
+  "icon": "https://s2.uupload.ir/files/img_20230302_134307_532_qaml.jpg",
+  "goSafeh": "code_py"
 }
