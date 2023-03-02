@@ -18,5 +18,9 @@
   {
     "Tavale_video": "درآوردن گوید اکانت",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/R3sk9/vt/frame"
+  },
+  {
+    "Tavale_video": "نوشتن سورسی ساده",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/leU4G/vt/frame"
   }
 ]
