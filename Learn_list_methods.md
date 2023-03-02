@@ -139,7 +139,25 @@
   },
   {
     "Tasle": "seeChannelbyLink",
-    "Tdovom": "seeChannelbyLink\n\nاین  اطلاعات ابتدایی رو قبل از عضو شدن به وسیله لینک گروه درمیاره\n\nتنها مقداری که میگیره لینک گروه مورد نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.seeChannelbyLink(\"https://rubika.ir/joing/DHADFCCG0WXSEVSZTFPXJFNBETBSTLUM\")",
+    "Tdovom": "seeChannelbyLink\n\nاین  اطلاعات ابتدایی رو قبل از عضو شدن به وسیله لینک کانال درمیاره\n\nتنها مقداری که میگیره لینک کانال مورد نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.seeChannelbyLink(\"https://rubika.ir/joinc/DHADFCCG0WXSEVSZTFPXJFNBETBSTLUM\")",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "seeGroupbyLink",
+    "Tdovom": "seeGroupbyLink\n\nاین  اطلاعات ابتدایی رو قبل از عضو شدن به وسیله لینک گروه درمیاره\n\nتنها مقداری که میگیره لینک گروه مورد نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.seeGroupbyLink(\"https://rubika.ir/joing/DHADFCCG0WXSEVSZTFPXJFNBETBSTLUM\")",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "joinChannelByID",
+    "Tdovom": "joinChannelByID\n\nاین  با آیدی عضو کانال میشه\n\nتنها مقداری که میگیره آیدی کانال نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.joinChannelByID(\"@ArseinRubika\")",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "joinChannelByLink",
+    "Tdovom": "joinChannelByLink\n\nاین  با لینک خصوصی عضو کانال میشه\n\nتنها مقداری که میگیره آیدی لینک کانال نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.joinChannelByLink(\"@ArseinRubika\")",
     "Photo_image": false,
     "Code": false
   }
