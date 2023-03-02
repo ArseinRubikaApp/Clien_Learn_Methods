@@ -124,5 +124,11 @@
     "Tdovom": "getAvatars\n\nاین اطلاعات تمام پروفایل های گروه یا چنل یا پیوی طرف رو میگیره\n\nتنها مقداری که میگیره گوید کاربر یا گروه یا چنله\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.getAvatars(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
     "Photo_image": false,
     "Code": false
+  },
+  {
+    "Tasle": "search_inaccount",
+    "Tdovom": "search_inaccount\n\nاین متن مورد نظر رو از داخل محتواهای اکانتتون سرچ میکنه\n\nتنها مقداری که میگیره متنی که میخواهید سرچ کنه\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.search_inaccount(\"روبیکا\")",
+    "Photo_image": false,
+    "Code": false
   }
 ]
