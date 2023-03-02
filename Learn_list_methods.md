@@ -136,5 +136,11 @@
     "Tdovom": "search_inrubika\n\nاین متن مورد نظر رو از داخل محتواهای کل روبیکا سرچ میکنه\n\nتنها مقداری که میگیره متنی که میخواهید سرچ کنه\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.search_inrubika(\"روبیکا\")",
     "Photo_image": false,
     "Code": false
+  },
+  {
+    "Tasle": "seeChannelbyLink",
+    "Tdovom": "seeChannelbyLink\n\nاین  اطلاعات ابتدایی رو قبل از عضو شدن به وسیله لینک گروه درمیاره\n\nتنها مقداری که میگیره لینک گروه مورد نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.seeChannelbyLink(\"https://rubika.ir/joing/DHADFCCG0WXSEVSZTFPXJFNBETBSTLUM\")",
+    "Photo_image": false,
+    "Code": false
   }
 ]
