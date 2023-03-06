@@ -1,6 +1,6 @@
 {
-  "start": false,
-  "title": "MR Code",
-  "icon": "https://s2.uupload.ir/files/img_20230302_134307_532_qaml.jpg",
-  "goSafeh": "code_py"
+  "start": true,
+  "title": "Python | Sketchware🎄",
+  "icon": "https://s2.uupload.ir/files/img_20230306_233302_949_19jv.jpg",
+  "goSafeh": "app2_py"
 }
