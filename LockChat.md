@@ -1,3 +1,3 @@
 {
-  "lockChat": false
+  "lockChat": true
 }
