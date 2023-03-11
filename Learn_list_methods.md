@@ -169,7 +169,19 @@
   },
   {
     "Tasle": "setTypeChannel",
-    "Tdovom": "setTypeChannel\n\nاین  نوع کانال رو تغیز میده مثلا عمومی یا خصوصی\n\nتنها مقداری که میگیره گوید کانال مورد نظر و نوع چنله\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\nبرای خصوصی کردن چنل👇\napp.setTypeChannel(\"u0kgKBr0fd6c0216e264e904d5021b88\"،\"Private\")\nبرای عمومی کردن چنل👇\n\napp.setTypeChannel(\"u0kgKBr0fd6c0216e264e904d5021b88\"،\"Public\"",
+    "Tdovom": "setTypeChannel\n\nاین  نوع کانال رو تغیر میده مثلا عمومی یا خصوصی\n\nتنها مقداری که میگیره گوید کانال مورد نظر و نوع چنله\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\nبرای خصوصی کردن چنل👇\n\napp.setTypeChannel(\"u0kgKBr0fd6c0216e264e904d5021b88\"،\"Private\")\n\nبرای عمومی کردن چنل👇\n\napp.setTypeChannel(\"u0kgKBr0fd6c0216e264e904d5021b88\"،\"Public\"",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "activenotification",
+    "Tdovom": "activenotification\n\nاین  اعلان کانال یا گپ رو فعال میکنه\n\nتنها مقداری که میگیره گوید کانال مورد نظر یا  چنل مورد نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.activenotification(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "offnotification",
+    "Tdovom": "offnotification\n\nاین  اعلان کانال یا گپ رو غیر فعال میکنه\n\nتنها مقداری که میگیره گوید کانال مورد نظر یا  چنل مورد نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.offnotification(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
     "Photo_image": false,
     "Code": false
   }
