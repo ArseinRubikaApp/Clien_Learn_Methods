@@ -1,4 +1,4 @@
 {
   "Version": "4.4",
-  "Caption": false
+  "Caption": "رفع تعدادی از باگ ها"
 }
