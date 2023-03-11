@@ -160,5 +160,17 @@
     "Tdovom": "joinChannelByLink\n\nاین  با لینک خصوصی عضو کانال میشه\n\nتنها مقداری که میگیره آیدی لینک کانال نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.joinChannelByLink(\"@ArseinRubika\")",
     "Photo_image": false,
     "Code": false
+  },
+  {
+    "Tasle": "commonGroup",
+    "Tdovom": "commonGroup\n\nاین  گروه های مشترک با اون کاربر رو نشون میده\n\nتنها مقداری که میگیره گوید کاربر مورد نظره نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.commonGroup(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "setTypeChannel",
+    "Tdovom": "setTypeChannel\n\nاین  نوع کانال رو تغیز میده مثلا عمومی یا خصوصی\n\nتنها مقداری که میگیره گوید کانال مورد نظر و نوع چنله\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\nبرای خصوصی کردن چنل👇\napp.setTypeChannel(\"u0kgKBr0fd6c0216e264e904d5021b88\"،\"Private\")\nبرای عمومی کردن چنل👇\n\napp.setTypeChannel(\"u0kgKBr0fd6c0216e264e904d5021b88\"،\"Public\"",
+    "Photo_image": false,
+    "Code": false
   }
 ]
