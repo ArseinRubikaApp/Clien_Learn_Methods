@@ -22,5 +22,9 @@
   {
     "Tavale_video": "نوشتن سورسی ساده",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/3QHkp/vt/frame"
+  },
+  {
+    "Tavale_video": "نوشتن مدیریت گروه",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/tlNPI/vt/frame"
   }
 ]
