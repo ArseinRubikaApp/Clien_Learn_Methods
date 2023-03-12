@@ -175,13 +175,13 @@
   },
   {
     "Tasle": "activenotification",
-    "Tdovom": "activenotification\n\nاین  اعلان کانال یا گپ رو فعال میکنه\n\nتنها مقداری که میگیره گوید کانال مورد نظر یا  چنل مورد نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.activenotification(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
+    "Tdovom": "activenotification\n\nاین  اعلان کانال یا گپ رو فعال میکنه\n\nتنها مقداری که میگیره گوید کانال مورد نظر یا  گروه مورد نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.activenotification(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
     "Photo_image": false,
     "Code": false
   },
   {
     "Tasle": "offnotification",
-    "Tdovom": "offnotification\n\nاین  اعلان کانال یا گپ رو غیر فعال میکنه\n\nتنها مقداری که میگیره گوید کانال مورد نظر یا  چنل مورد نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.offnotification(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
+    "Tdovom": "offnotification\n\nاین  اعلان کانال یا گپ رو غیر فعال میکنه\n\nتنها مقداری که میگیره گوید کانال مورد نظر یا  گروه مورد نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\napp.offnotification(\"u0kgKBr0fd6c0216e264e904d5021b88\")",
     "Photo_image": false,
     "Code": false
   }
