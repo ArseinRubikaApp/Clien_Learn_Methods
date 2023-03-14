@@ -26,5 +26,9 @@
   {
     "Tavale_video": "نوشتن مدیریت گروه",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/tlNPI/vt/frame"
+  },
+  {
+    "Tavale_video": "نوشتن سین زن",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/xMObP/vt/frame"
   }
 ]
