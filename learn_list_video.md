@@ -30,5 +30,9 @@
   {
     "Tavale_video": "نوشتن سین زن",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/W5eZF/vt/frame"
+  },
+  {
+    "Tavale_video": "نصب آفلاین آرسین",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/lvVPZ/vt/frame"
   }
 ]
