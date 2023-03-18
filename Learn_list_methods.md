@@ -186,6 +186,18 @@
     "Code": false
   },
   {
+    "Tasle": "getbanGroupUsers",
+    "Tdovom": "getbanGroupUsers\n\nاین  لیست سیاه گروه رو نشون میده\n\nتنها مقداری که میگیره  گوید گروه مورد نظره\n\nو مقدار دوم که اجباری نیست دادن start_id \n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\ntest = app.getbanGroupUsers(\"g0kgKBr0fd6c0216e264e904d5021b88\")\n\nprint(test)",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "getbanChannelUsers",
+    "Tdovom": "getbanChannelUsers\n\nاین  لیست سیاه کانال رو نشون میده\n\nتنها مقداری که میگیره  گوید کانال مورد نظره\n\nو مقدار دوم که اجباری نیست دادن start_id \n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\n\ntest = app.getbanChannelUsers(\"c0kgKBr0fd6c0216e264e904d5021b88\")\n\nprint(test)",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
     "Tasle": "pin",
     "Tdovom": "pin\n\nاین  مسیج یا همون پیام مورد نظر رو سنجاق میکنه\n\nتنها مقداری که میگیره گوید کانال مورد نظر یا  گروه مورد نظر \n\nو مسیج آیدی پیام مورد نظره\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\r\n\r\n\r\nmsid = []\r\n\r\nwhile 1:\r\n\ttry:\r\n\t\tmessage = app.getChatGroup(\"g0Coyxc03baff61470d6467851610bf3 \")\r\n\t\tfor ms in message:\r\n\t\t\tif ms.get(\"type\") == \"Text\" and not ms.get(\"message_id\") in msid:\r\n\t\t\t\tprint(ms.get(\"text\"))\r\n\t\t\t\tmsid.append(ms.get(\"message_id\"))\r\n\t\t\t\tif ms.get(\"text\") == \"robot\":\r\n\t\t\t\t\tapp.pin(\"g0Coyxc03baff61470d6467851610bf3 \",ms.get(\"message_id\"))\r\n\t\t\t\telse:pass\r\n\texcept:continue",
     "Photo_image": false,
@@ -194,6 +206,12 @@
   {
     "Tasle": "unpin",
     "Tdovom": "unpin\n\nاین  مسیج یا همون پیام مورد نظر رو از سنجاق برمیداره\n\nتنها مقداری که میگیره گوید کانال مورد نظر یا  گروه مورد نظر \n\nو مسیج آیدی پیام مورد نظر که قبلا سنجاق شده\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\r\n\r\n\r\nmsid = []\r\n\r\nwhile 1:\r\n\ttry:\r\n\t\tmessage = app.getChatGroup(\"g0Coyxc03baff61470d6467851610bf3 \")\r\n\t\tfor ms in message:\r\n\t\t\tif ms.get(\"type\") == \"Text\" and not ms.get(\"message_id\") in msid:\r\n\t\t\t\tprint(ms.get(\"text\"))\r\n\t\t\t\tmsid.append(ms.get(\"message_id\"))\r\n\t\t\t\tif ms.get(\"text\") == \"robot\":\r\n\t\t\t\t\tapp.unpin(\"g0Coyxc03baff61470d6467851610bf3 \",ms.get(\"message_id\"))\r\n\t\t\t\telse:pass\r\n\texcept:continue",
+    "Photo_image": false,
+    "Code": false
+  },
+  {
+    "Tasle": "addMemberGroup",
+    "Tdovom": "addMemberGroup\n\nاین  کاربر مورد نظر رو به گروه اصافه میکنه\n\nتنها مقداری که میگیره گوید کانال مورد نظر یا  گروه مورد نظر \n\nو لیستی از گویدهای کاربرانی که میخوایی اد شن\n\nمثال:\n\nfrom arsein import Messenger\r\n\r\napp = Messenger(\"اوث شما\")\r\n\r\n\r\nmsid = []\r\n\r\nwhile 1:\r\n\ttry:\r\n\t\tmessage = app.getChatGroup(\"g0Coyxc03baff61470d6467851610bf3 \")\r\n\t\tfor ms in message:\r\n\t\t\tif ms.get(\"type\") == \"Text\" and not ms.get(\"message_id\") in msid:\r\n\t\t\t\tprint(ms.get(\"text\"))\r\n\t\t\t\tmsid.append(ms.get(\"message_id\"))\r\n\t\t\t\tif ms.get(\"text\") == \"robot\":\r\n\t\t\t\t\tapp.addMemberGroup(\"g0Coyxc03baff61470d6467851610bf3 \",[\"uktjjdjdhhff\"])\r\n\t\t\t\telse:pass\r\n\texcept:continue",
     "Photo_image": false,
     "Code": false
   }
