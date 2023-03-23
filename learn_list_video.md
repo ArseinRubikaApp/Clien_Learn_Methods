@@ -34,5 +34,9 @@
   {
     "Tavale_video": "نصب آفلاین آرسین",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/lvVPZ/vt/frame"
+  },
+  {
+    "Tavale_video": "نوشتن ادممبر",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/duLyJ/vt/frame"
   }
 ]
