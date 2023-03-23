@@ -38,5 +38,9 @@
   {
     "Tavale_video": "نوشتن ادممبر",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/duLyJ/vt/frame"
+  },
+  {
+    "Tavale_video": "نوشتن پست گذار",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/VZON2/vt/frame"
   }
 ]
