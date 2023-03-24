@@ -1,27 +1,27 @@
 [
   {
-    "Tavale_video": "درآوردن شناسه اکانت",
-    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/WtQ35/vt/frame"
+    "Tavale_video": "طراحی کاور ویدئو",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/veda8/vt/frame"
   },
   {
-    "Tavale_video": "درآوردن گوید کانال",
-    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/rFmUb/vt/frame"
+    "Tavale_video": "ذخیره چکس باکس",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/G5Rqk/vt/frame"
   },
   {
-    "Tavale_video": "درآوردن گوید گروه",
-    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/ZCeB6/vt/frame"
+    "Tavale_video": "ذخیره زمان",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/qP4l1/vt/frame"
   },
   {
-    "Tavale_video": "نصب کتابخونه آرسین",
-    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/bpLD4/vt/frame"
+    "Tavale_video": "ایجاد محدودیت ورود",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/UTdwM/vt/frame"
   },
   {
-    "Tavale_video": "درآوردن گوید اکانت",
-    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/R3sk9/vt/frame"
+    "Tavale_video": "انیمیشن حرکت متن",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/318xZ/vt/frame"
   },
   {
-    "Tavale_video": "نوشتن سورسی ساده",
-    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/3QHkp/vt/frame"
+    "Tavale_video": "تنظیم تصویر زمینه گوشی",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/M2gJ7/vt/frame"
   },
   {
     "Tavale_video": "نوشتن مدیریت گروه",
@@ -44,4 +44,3 @@
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/YoO8S/vt/frame"
   }
 ]
-
