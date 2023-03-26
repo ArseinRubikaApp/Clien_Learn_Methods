@@ -53,5 +53,20 @@
     "Tavale_video": "آموزش گذاشتن فیلم (2)",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/fA5Vm/vt/frame",
     "Caption_Sk": "افزودن ویدیو به صورت آنلاین با سرور کدر"
+  },
+  {
+    "Tavale_video": "چرخ تکست ویو",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/YsVUB/vt/frame",
+    "Caption_Sk": "آموزش با کلیک روی باتون تکست ویو بچرخه"
+  },
+  {
+    "Tavale_video": "ساخت ویروس",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/HgmYS/vt/frame",
+    "Caption_Sk": "آموزش ساخت یک ویروس ساده\n"
+  },
+  {
+    "Tavale_video": "ساخت چراغ قوه",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/afxtW/vt/frame",
+    "Caption_Sk": "ساخت چراغ قوه با Sketchware"
   }
 ]
