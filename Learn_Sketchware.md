@@ -68,5 +68,15 @@
     "Tavale_video": "ساخت چراغ قوه",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/afxtW/vt/frame",
     "Caption_Sk": "ساخت چراغ قوه با Sketchware"
+  },
+  {
+    "Tavale_video": "باز کردن کانال روبیکا",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/bsnvh/vt/frame",
+    "Caption_Sk": "باز کردن کانال روبیکا در Sketchware"
+  },
+  {
+    "Tavale_video": "ساخت شماره ساز",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/JLIs6/vt/frame",
+    "Caption_Sk": "ساخت شماره ساز با Sketchware"
   }
 ]
