@@ -108,5 +108,15 @@
     "Tavale_video": "فارسی کردن Sketchware",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/laPV9/vt/frame",
     "Caption_Sk": "آموزش فارسی کردن اسکوچر (sketchware)"
+  },
+  {
+    "Tavale_video": "ارسال SMS",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/QWSOn/vt/frame",
+    "Caption_Sk": "آموزش ارسال SMS با اسکچور"
+  },
+  {
+    "Tavale_video": "ارسال ایمیل",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/BeNhT/vt/frame",
+    "Caption_Sk": "ارسال ایمیل با اینتنت پیش‌فرض در اسکچور"
   }
 ]
