@@ -128,5 +128,15 @@
     "Tavale_video": "ارسال دیالوگ اپدیت",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/P3pTr/vt/frame",
     "Caption_Sk": "آموزش ارسال دیالوگ اپدیت برای کاربر در اسکچور sketchware بدون فایربیس"
+  },
+  {
+    "Tavale_video": "ارسال اعلان",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/buW3L/vt/frame",
+    "Caption_Sk": "آموزش ارسال اعلان در اسکچور"
+  },
+  {
+    "Tavale_video": "فارسی کردن Sketchware (2)",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/9R6T4/vt/frame",
+    "Caption_Sk": "اموزش فارسی سازی اسکچور"
   }
 ]
