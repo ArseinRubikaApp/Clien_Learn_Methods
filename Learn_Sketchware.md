@@ -83,5 +83,20 @@
     "Tavale_video": "تنظیم تصویرزمینه (1)",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/THbIA/vt/frame",
     "Caption_Sk": "تنظیم تصویر زمینه بصورت آنلاین"
+  },
+  {
+    "Tavale_video": "نوشتن بیشتر از 255 کاراکتر",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/2hxrQ/vt/frame",
+    "Caption_Sk": "نوشتن بیش از 255 کاراکتر Sketchware\n\n"
+  },
+  {
+    "Tavale_video": "لرزش صفحه",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/0gEku/vt/frame",
+    "Caption_Sk": "لرزش صفحه در Sketchware\n\n"
+  },
+  {
+    "Tavale_video": "دریافت سورس سایت",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/NCMcn/vt/frame",
+    "Caption_Sk": "ساخت دریافت کننده سورس سایت\n\n"
   }
 ]
