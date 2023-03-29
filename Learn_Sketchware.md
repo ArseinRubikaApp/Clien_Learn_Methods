@@ -103,5 +103,10 @@
     "Tavale_video": "موزیک پلی هوشمند",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/jtq4v/vt/frame",
     "Caption_Sk": "آموزش ساخت موزیک پلی هوشمند با اسکچور Sketchware"
+  },
+  {
+    "Tavale_video": "فارسی کردن Sketchware",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/laPV9/vt/frame",
+    "Caption_Sk": "آموزش فارسی کردن اسکوچر (sketchware)"
   }
 ]
