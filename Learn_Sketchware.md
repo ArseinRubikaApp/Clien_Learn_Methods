@@ -62,7 +62,7 @@
   {
     "Tavale_video": "ساخت ویروس",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/HgmYS/vt/frame",
-    "Caption_Sk": "آموزش ساخت یک ویروس ساده\n"
+    "Caption_Sk": "آموزش ساخت یک ویروس ساده"
   },
   {
     "Tavale_video": "ساخت چراغ قوه",
