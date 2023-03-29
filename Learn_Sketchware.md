@@ -138,5 +138,20 @@
     "Tavale_video": "فارسی کردن Sketchware (2)",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/9R6T4/vt/frame",
     "Caption_Sk": "اموزش فارسی سازی اسکچور"
+  },
+  {
+    "Tavale_video": "وارد کردن پروژه",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/CXKJg/vt/frame",
+    "Caption_Sk": "وارد کردن پروژه در اسکچور"
+  },
+  {
+    "Tavale_video": "اضافه کردن فونت",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/ywmG8/vt/frame",
+    "Caption_Sk": "اضافه کردن فونت به برنامه ساخته شده با اسکچور"
+  },
+  {
+    "Tavale_video": "دمای باتری",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/v4G0D/vt/frame",
+    "Caption_Sk": "نمایش دمای باتری در اسکچور"
   }
 ]
