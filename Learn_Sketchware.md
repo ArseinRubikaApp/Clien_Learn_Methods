@@ -87,16 +87,21 @@
   {
     "Tavale_video": "نوشتن بیشتر از 255 کاراکتر",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/2hxrQ/vt/frame",
-    "Caption_Sk": "نوشتن بیش از 255 کاراکتر Sketchware\n\n"
+    "Caption_Sk": "نوشتن بیش از 255 کاراکتر Sketchware"
   },
   {
     "Tavale_video": "لرزش صفحه",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/0gEku/vt/frame",
-    "Caption_Sk": "لرزش صفحه در Sketchware\n\n"
+    "Caption_Sk": "لرزش صفحه در Sketchware"
   },
   {
     "Tavale_video": "دریافت سورس سایت",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/NCMcn/vt/frame",
-    "Caption_Sk": "ساخت دریافت کننده سورس سایت\n\n"
+    "Caption_Sk": "ساخت دریافت کننده سورس سایت"
+  },
+  {
+    "Tavale_video": "موزیک پلی هوشمند",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/jtq4v/vt/frame",
+    "Caption_Sk": "آموزش ساخت موزیک پلی هوشمند با اسکچور Sketchware"
   }
 ]
