@@ -118,5 +118,15 @@
     "Tavale_video": "ارسال ایمیل",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/BeNhT/vt/frame",
     "Caption_Sk": "ارسال ایمیل با اینتنت پیش‌فرض در اسکچور"
+  },
+  {
+    "Tavale_video": "زوم روی عکس",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/Tzwbc/vt/frame",
+    "Caption_Sk": "زوم روی عکس"
+  },
+  {
+    "Tavale_video": "ارسال دیالوگ اپدیت",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/P3pTr/vt/frame",
+    "Caption_Sk": "آموزش ارسال دیالوگ اپدیت برای کاربر در اسکچور sketchware بدون فایربیس"
   }
 ]
