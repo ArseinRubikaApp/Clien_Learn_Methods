@@ -163,5 +163,15 @@
     "Tavale_video": "ذخیره کردن متن",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/YI9sr/vt/frame",
     "Caption_Sk": "آموزش ذخیره کردن متن در اسکچور"
+  },
+  {
+    "Tavale_video": "اعلان ماندگار",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/Pbn2q/vt/frame",
+    "Caption_Sk": "آموزش ساخت اعلان ماندگار در اسکچور"
+  },
+  {
+    "Tavale_video": "صفحه دیباگ",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/RFAaj/vt/frame",
+    "Caption_Sk": "ساخت صفحه دیباگ در اسکچور"
   }
 ]
