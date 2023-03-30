@@ -153,5 +153,15 @@
     "Tavale_video": "دمای باتری",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/v4G0D/vt/frame",
     "Caption_Sk": "نمایش دمای باتری در اسکچور"
+  },
+  {
+    "Tavale_video": "ساخت دکمه بروزرسانی",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/jJ02e/vt/frame",
+    "Caption_Sk": "آموزش ساخت دکمه بروزرسانی صفحه در اسکچور"
+  },
+  {
+    "Tavale_video": "ذخیره کردن متن",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/YI9sr/vt/frame",
+    "Caption_Sk": "آموزش ذخیره کردن متن در اسکچور"
   }
 ]
