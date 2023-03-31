@@ -193,5 +193,15 @@
     "Tavale_video": "تب لایوت",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/Aixes/vt/frame",
     "Caption_Sk": "تب لایوت در Sketchware"
+  },
+  {
+    "Tavale_video": "فب چند منظوره",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/3SPzC/vt/frame",
+    "Caption_Sk": "آموزش ساخت فب چند منظوره در اسکچور"
+  },
+  {
+    "Tavale_video": "جهت کشیده شدن‌ لاینر",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/AhLB3/vt/frame",
+    "Caption_Sk": "دریافت جهت کشیده شدن صفحه (لاینر) در اسکچور"
   }
 ]
