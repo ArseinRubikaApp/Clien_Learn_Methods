@@ -173,5 +173,15 @@
     "Tavale_video": "صفحه دیباگ",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/RFAaj/vt/frame",
     "Caption_Sk": "ساخت صفحه دیباگ در اسکچور"
+  },
+  {
+    "Tavale_video": "دکمه کپی کننده",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/QLtTi/vt/frame",
+    "Caption_Sk": "آموزش ساخت دکمه کپی کننده متن در اسکچور"
+  },
+  {
+    "Tavale_video": "صفحه یکبار مصرف",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/S8JGA/vt/frame",
+    "Caption_Sk": "آموزش ساخت صفحه ای که فقط یکبار نشان داده شود"
   }
 ]
