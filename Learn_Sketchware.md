@@ -183,5 +183,15 @@
     "Tavale_video": "صفحه یکبار مصرف",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/S8JGA/vt/frame",
     "Caption_Sk": "آموزش ساخت صفحه ای که فقط یکبار نشان داده شود"
+  },
+  {
+    "Tavale_video": "تپ تارگت",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/P57oC/vt/frame",
+    "Caption_Sk": "آموزش ساخت تپ تارگت با اسکچور"
+  },
+  {
+    "Tavale_video": "تب لایوت",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/Aixes/vt/frame",
+    "Caption_Sk": "تب لایوت در Sketchware"
   }
 ]
