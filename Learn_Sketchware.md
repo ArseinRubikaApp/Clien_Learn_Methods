@@ -203,5 +203,15 @@
     "Tavale_video": "جهت کشیده شدن‌ لاینر",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/AhLB3/vt/frame",
     "Caption_Sk": "دریافت جهت کشیده شدن صفحه (لاینر) در اسکچور"
+  },
+  {
+    "Tavale_video": "ارسال کد آفلاین",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/PzgrJ/vt/frame",
+    "Caption_Sk": "آموزش ارسال کد تایید به صورت آفلاین در اسکچور"
+  },
+  {
+    "Tavale_video": "ساخت بازی هواپیما",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/HbS9O/vt/frame",
+    "Caption_Sk": "ساخت بازی هواپیما با Sketchware"
   }
 ]
