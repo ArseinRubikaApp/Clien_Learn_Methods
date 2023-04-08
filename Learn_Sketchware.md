@@ -213,5 +213,15 @@
     "Tavale_video": "ساخت بازی هواپیما",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/HbS9O/vt/frame",
     "Caption_Sk": "ساخت بازی هواپیما با Sketchware"
+  },
+  {
+    "Tavale_video": "ساخت دکمه رفرش",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/6Dpke/vt/frame",
+    "Caption_Sk": "آموزش ساخت دکمه رفرش کشیدن به پایین در اسکچور"
+  },
+  {
+    "Tavale_video": "گذاشتن صدا",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/4BUCq/vt/frame",
+    "Caption_Sk": "آموزش گذاشتن صدا برای برنامه در اسکچور"
   }
 ]
