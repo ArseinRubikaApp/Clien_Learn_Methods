@@ -1,6 +1,6 @@
 {
-  "start": false,
-  "title": "فروش فالوور",
-  "icon": "https://s2.uupload.ir/files/img_20230401_154156_890_cil4.jpg",
-  "goSafeh": "@mopiola90"
+  "start": true,
+  "title": "انجمن برنامه نویسان",
+  "icon": "https://s2.uupload.ir/files/img_20230409_170332_549_6x4p.jpg",
+  "goSafeh": "https://rubika.ir/joing/CHDBACIJ0WTIEVOFYEIQNYIMQYOBZBKZ"
 }
