@@ -223,5 +223,15 @@
     "Tavale_video": "گذاشتن صدا",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/4BUCq/vt/frame",
     "Caption_Sk": "آموزش گذاشتن صدا برای برنامه در اسکچور"
+  },
+  {
+    "Tavale_video": "ساخت صلوات شمار",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/iIxVt/vt/frame",
+    "Caption_Sk": "آموزش ساخت برنامه صلوات شمار در اسکچور"
+  },
+  {
+    "Tavale_video": "گذاشتن رمز",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/yxOSp/vt/frame",
+    "Caption_Sk": "آموزش گذاشتن رمز برای برنامه در اسکچور"
   }
 ]
