@@ -233,5 +233,15 @@
     "Tavale_video": "گذاشتن رمز",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/yxOSp/vt/frame",
     "Caption_Sk": "آموزش گذاشتن رمز برای برنامه در اسکچور"
+  },
+  {
+    "Tavale_video": "دابل کلیک برای خروج",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/R3zFI/vt/frame",
+    "Caption_Sk": "آموزش ساخت دکمه دابل کلیک برای خروج از برنامه در اسکچور"
+  },
+  {
+    "Tavale_video": "دکمه خروج",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/NAqMD/vt/frame",
+    "Caption_Sk": "ساخت دکمه خروج در اسکچور"
   }
 ]
