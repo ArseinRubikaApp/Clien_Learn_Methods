@@ -42,5 +42,9 @@
   {
     "Tavale_video": "نوشتن پست گذار",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/YoO8S/vt/frame"
+  },
+  {
+    "Tavale_video": "نصب آرسین با میرور",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/cEU13/vt/frame"
   }
 ]
