@@ -243,5 +243,15 @@
     "Tavale_video": "دکمه خروج",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/NAqMD/vt/frame",
     "Caption_Sk": "ساخت دکمه خروج در اسکچور"
+  },
+  {
+    "Tavale_video": "ساخت زمان سنج",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/FloKZ/vt/frame",
+    "Caption_Sk": "ساخت زمان سنج اندروید با اسکچور و کامپوننت تایمر"
+  },
+  {
+    "Tavale_video": "ساخت قسمت تماس",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/VL9va/vt/frame",
+    "Caption_Sk": "آموزش ساخت برنامه تماس گرفتن در اسکچور"
   }
 ]
