@@ -4,7 +4,7 @@
     "name_source": "سین زن رسول",
     "name_programmer": "رسول",
     "caption_source": "سین زن چند اکانته STORN BOT  \n\n❗️سرعتش خیلی #گاده \n❗️گرافیکش هم عالیه \n❗️لینکای زیادی هم میگیره \n\nهرچی اوث دارید بزارید تا تعداد سینی ک میزنه بیشتر باشه 👌\n\nرمزش : MADI_CODER",
-    "link_source": "",
+    "link_source": "https://github.com/HirbodBehnam/Downloader-Bot/archive/refs/heads/master.zip",
     "type_File": "sadeh"
   }
 ]
