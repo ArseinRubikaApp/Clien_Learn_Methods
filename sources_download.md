@@ -3,7 +3,7 @@
   {
     "photo_source": "",
     "name_source": "",
-    "type_source": "",
+    "name_programmer": "",
     "caption_source": "",
     "link_source": ""
   }
