@@ -6,8 +6,8 @@
     "caption_source": "سین زن چند اکانته STORN BOT  \n\n❗️سرعتش خیلی #گاده \n❗️گرافیکش هم عالیه \n❗️لینکای زیادی هم میگیره \n\nهرچی اوث دارید بزارید تا تعداد سینی ک میزنه بیشتر باشه 👌\n\nرمزش : MADI_CODER",
     "link_source": "https://github.com/HirbodBehnam/Downloader-Bot/archive/refs/heads/master.zip",
     "type_File": "sadeh",
-    "group_user": true,
-    "channel_user": true,
-    "pv_user": true
+    "group_user": "https://rubika.ir/joing/DJHDHGHC0GILGNARXBWJJTWEIEVULOTO",
+    "channel_user": "@AV_Plus",
+    "pv_user": "@admins_pydroid"
   }
 ]
