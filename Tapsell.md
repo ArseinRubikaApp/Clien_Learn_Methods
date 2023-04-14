@@ -1,6 +1,6 @@
 {
   "start": true,
-  "title": "♥️فروشگاه روبیکا♥️",
-  "icon": "https://s6.uupload.ir/files/img_20230412_135608_100_k768.jpg",
-  "goSafeh": "@amiro_khoda"
+  "title": "انجمن فالور روبیکا",
+  "icon": "https://s8.uupload.ir/files/img_20230414_150105_752_cz93.jpg",
+  "goSafeh": "@anjoman_fallower"
 }
