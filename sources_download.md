@@ -20,5 +20,16 @@
     "group_user": true,
     "channel_user": "@CrubiBot",
     "pv_user": "@ErrorDev"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230417_201718_548_ef46.jpg",
+    "name_source": "اد ممبر طاها",
+    "name_programmer": "طاها | Taha",
+    "caption_source": "سورس اد ممبر گروه و کانال\n\nسرعت فوق‌العاده عالی\nنحوه استفاده ازش خیلی راحته، فقط در لاین سوم لیست اوت هاتون با ریتم درست وارد کرده  و ران کنید.",
+    "link_source": "https://mmdcoder.s80.site/UP/SeenBot.py",
+    "type_File": "sadeh",
+    "group_user": "https://rubika.ir/joing/DGIABJGH0RXLDEBPKWGUCNMLIFTPDIRE",
+    "channel_user": true,
+    "pv_user": "@taha_shah2"
   }
 ]
