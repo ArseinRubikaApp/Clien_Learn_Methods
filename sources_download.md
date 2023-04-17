@@ -9,5 +9,16 @@
     "group_user": true,
     "channel_user": "https://rubika.ir/joinc/BHECACAH0ABTPLWPUUJEXHJEUNNPMYFC",
     "pv_user": "@Master_aMir_HaCK2"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230417_191555_989_ijl5.jpg",
+    "name_source": "سین زن ممد دارک",
+    "name_programmer": "ممد دارک",
+    "caption_source": "سورس سین زن محمد دارک \n\nسرعتش زیاده پس شناسه زیاد بزنید !\n\nچکر نزاشتم اوث هاتون سالم بزنید.",
+    "link_source": "https://mmdcoder.s80.site/UP/SeenBot.py",
+    "type_File": "sadeh",
+    "group_user": true,
+    "channel_user": "@CrubiBot",
+    "pv_user": "@ErrorDev"
   }
 ]
