@@ -8,7 +8,8 @@
     "type_File": "sadeh",
     "group_user": true,
     "channel_user": "https://rubika.ir/joinc/BHECACAH0ABTPLWPUUJEXHJEUNNPMYFC",
-    "pv_user": "@Master_aMir_HaCK2"
+    "pv_user": "@Master_aMir_HaCK2",
+    "CheckFile": "seen_zan_amir⁴.py"
   },
   {
     "photo_source": "https://s8.uupload.ir/files/img_20230417_191555_989_ijl5.jpg",
@@ -19,7 +20,8 @@
     "type_File": "sadeh",
     "group_user": true,
     "channel_user": "@CrubiBot",
-    "pv_user": "@ErrorDev"
+    "pv_user": "@ErrorDev",
+    "CheckFile": "SeenBot.py"
   },
   {
     "photo_source": "https://s8.uupload.ir/files/img_20230417_201718_548_ef46.jpg",
@@ -30,7 +32,8 @@
     "type_File": "sadeh",
     "group_user": "https://rubika.ir/joing/DGIABJGH0RXLDEBPKWGUCNMLIFTPDIRE",
     "channel_user": true,
-    "pv_user": "@taha_shah2"
+    "pv_user": "@taha_shah2",
+    "CheckFile": "Add_member.py"
   },
   {
     "photo_source": "https://s8.uupload.ir/files/chatgbt-1_9xk9.jpeg",
@@ -41,7 +44,8 @@
     "type_File": "sadeh",
     "group_user": true,
     "channel_user": "@hellbeni",
-    "pv_user": "@haiulla"
+    "pv_user": "@haiulla",
+    "CheckFile": "ChatGPT3.py"
   },
   {
     "photo_source": "https://s8.uupload.ir/files/img_20230417_215751_420_kiu4.jpg",
@@ -52,6 +56,7 @@
     "type_File": "sadeh",
     "group_user": true,
     "channel_user": "@storn_bot",
-    "pv_user": "@MadiCoder"
+    "pv_user": "@MadiCoder",
+    "CheckFile": "SEENZAN-STORN-V5.py"
   }
 ]
