@@ -42,5 +42,16 @@
     "group_user": true,
     "channel_user": "@hellbeni",
     "pv_user": "@haiulla"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230417_215751_420_kiu4.jpg",
+    "name_source": "سین زن مهدی کدر",
+    "name_programmer": "مهدی کدر",
+    "caption_source": "سین زن STORN BOT ؛ V5 \n\nسرعت عالی ؛ گرافیک عالی ؛ چن اکانته\n\n#توجه کنید که قبل از سین زدن باید صبر کنید اوثاتون چک بشه و اگه ریپ یا منقضی نبود و مورد تایید بات قرار گرفت شروع میکنه به سین زدن 👌\n\nسرعتش خداس ♥️",
+    "link_source": "https://mmdcoder.s80.site/UP/SEENZAN-STORN-V5.py",
+    "type_File": "sadeh",
+    "group_user": true,
+    "channel_user": "@storn_bot",
+    "pv_user": "@MadiCoder"
   }
 ]
