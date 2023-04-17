@@ -31,5 +31,16 @@
     "group_user": "https://rubika.ir/joing/DGIABJGH0RXLDEBPKWGUCNMLIFTPDIRE",
     "channel_user": true,
     "pv_user": "@taha_shah2"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/chatgbt-1_9xk9.jpeg",
+    "name_source": "ChatGpt بنی",
+    "name_programmer": "بنی | Beni",
+    "caption_source": "برای استفاده از سورس فقط نیاز به یک توکن opanai دارید که میتونید با ساختن یک حساب کاربری در سایت opanai.com توکن بگیرید توضیحات برای استفاده از سورس هم داخل سورس داده شده",
+    "link_source": "https://mmdcoder.s80.site/UP/ChatGPT3.py",
+    "type_File": "sadeh",
+    "group_user": true,
+    "channel_user": "@hellbeni",
+    "pv_user": "@haiulla"
   }
 ]
