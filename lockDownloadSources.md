@@ -1,3 +1,3 @@
 {
-  "lock_download_source": true
+  "lock_download_source": false
 }
