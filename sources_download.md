@@ -58,5 +58,17 @@
     "channel_user": "@storn_bot",
     "pv_user": "@MadiCoder",
     "CheckFile": "SEENZAN-STORN-V5.py"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230418_134827_164_8cve.jpg",
+    "name_source": "ارسال پست عکس روبینو",
+    "name_programmer": "ممد کدر",
+    "caption_source": "سورس برای ارسال پست ها با فرمت jpg و png ساخته شده\nو فقط عکس پشتیبانی می‌کند\n\nدر قسمت \nauth =\"\"\n\nشناسه اکانت مورد نظر برای آپلود عکس\nدر قسمت\ncaptain = \"\"\nبرای کپشن زیر عکس\n\nدر این قسمت\nPath = \" \"\n\nآدرس عکس را وارد کنید تا برای شما آپلود شود",
+    "link_source": "https://mmdcoder.s80.site/UP/sendPostRubino.py ",
+    "type_File": "sadeh",
+    "group_user": true,
+    "channel_user": "@python_java_source",
+    "pv_user": "@PROFESSOR_102",
+    "CheckFile": "sendPostRubino.py"
   }
 ]
