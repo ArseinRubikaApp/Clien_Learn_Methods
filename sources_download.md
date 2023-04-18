@@ -70,5 +70,17 @@
     "channel_user": "@python_java_source",
     "pv_user": "@PROFESSOR_102",
     "CheckFile": "sendPostRubino.py"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230418_161006_194_hmdx.jpg",
+    "name_source": "ChatGpt ابولی",
+    "name_programmer": "ابولی کدر",
+    "caption_source": "سورس چت جی پی تی ابولی بات\n\nنسخه 1\n\nنسخه پرو داره فروشیه 20 تومن",
+    "link_source": "https://mmdcoder.s80.site/UP/chat-gpt-abolibot.py ",
+    "type_File": "sadeh",
+    "group_user": true,
+    "channel_user": "@aBoLi__BoT",
+    "pv_user": "@aBoLi_Coder",
+    "CheckFile": "chat-gpt-abolibot.py"
   }
 ]
