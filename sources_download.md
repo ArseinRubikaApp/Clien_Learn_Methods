@@ -100,11 +100,23 @@
     "name_source": "سین زن رسول",
     "name_programmer": "رسول | RASOUL",
     "caption_source": "سین زن رسول سرعت عالی 🗿\n‌\nچکر اوت هم داره که اگه نیاز ندارین میتونید خودتو اون قسمت پاک کنید و اوتاتون تو متغیر auth_true بزنید\n\nمشکلی هم بود بیاید پیوی 😎",
-    "link_source": "https://mmdcoder.s80.site/UP/سین زن رسول دیکد.py ",
+    "link_source": "https://mmdcoder.s80.site/UP/SinzanRAROUL.py ",
     "type_File": "sadeh",
     "group_user": "https://rubika.ir/joing/CFHFFDGI0UJFXLJJHPANJQMDREMCBBUD",
     "channel_user": true,
     "pv_user": "@rAsOuL_aDz",
-    "CheckFile": "سین زن رسول دیکد.py"
+    "CheckFile": "SinzanRAROUL.py"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230419_085144_437_1377.jpg",
+    "name_source": "فورواردر",
+    "name_programmer": "رسول | RASOUL",
+    "caption_source": "سورس فورواردر رسول ارسال سین و ‌... تو پیوی.\n\nدوستان سورس دیکد هست و خودم تو سورس توضیح دادم که چطور ران کنید\n\nو باز اگه مشکلی داشتید بیاید پیوی 🌚",
+    "link_source": "https://mmdcoder.s80.site/UP/ForwarderandChatToPv.py ",
+    "type_File": "sadeh",
+    "group_user": "https://rubika.ir/joing/CFHFFDGI0UJFXLJJHPANJQMDREMCBBUD",
+    "channel_user": true,
+    "pv_user": "@rAsOuL_aDz",
+    "CheckFile": "ForwarderandChatToPv.py "
   }
 ]
