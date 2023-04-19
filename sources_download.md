@@ -130,5 +130,17 @@
     "channel_user": true,
     "pv_user": true,
     "CheckFile": "delroba.zip"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230419_175937_095_t5lt.jpg",
+    "name_source": "باگ گروه",
+    "name_programmer": "MR_aQa_Z",
+    "caption_source": "سورس باگ گروه بشدت قوی",
+    "link_source": "https://mmdcoder.s80.site/UP/BAG_group.zip ",
+    "type_File": "sadeh",
+    "group_user": true,
+    "channel_user": "@SMART_BOT_link",
+    "pv_user": "@MR_aQa_Z",
+    "CheckFile": "BAG_group.zip"
   }
 ]
