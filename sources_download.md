@@ -190,5 +190,17 @@
     "channel_user": "https://rubika.ir/joinc/BJEDFDBE0DLWUDTPSRDQNFIGGQPIOLKL",
     "pv_user": true,
     "CheckFile": "commentzan.zip"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230417_201718_548_ef46.jpg",
+    "name_source": "پاکسازی اکانت",
+    "name_programmer": "طاها | Taha",
+    "caption_source": "سورس پاکسازی اکانت\n\nهر چی گروه و کانال یا پیوی داشتید به صورت کامل حذف می‌شوند.\nتوضیحات داخل سورس گفته شده",
+    "link_source": "https://mmdcoder.s80.site/UP/paksazi.py ",
+    "type_File": "sadeh",
+    "group_user": "https://rubika.ir/joing/DGIABJGH0RXLDEBPKWGUCNMLIFTPDIRE",
+    "channel_user": "https://rubika.ir/joinc/BJEDFDBE0DLWUDTPSRDQNFIGGQPIOLKL",
+    "pv_user": true,
+    "CheckFile": "paksazi.py"
   }
 ]
