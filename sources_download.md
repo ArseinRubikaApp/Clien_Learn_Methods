@@ -142,5 +142,41 @@
     "channel_user": "@SMART_BOT_link",
     "pv_user": "@MR_aQa_Z",
     "CheckFile": "buggroups.zip"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230419_152110_624_4eaz.jpg",
+    "name_source": "ارسال کننده گوید",
+    "name_programmer": "آرین عباسی",
+    "caption_source": "ارسال کننده گوید  این سورس توسط تیم آرسین نوشته شده است\n\nگپ.چنل . پیوی\n\nفقط کافیه لینک یا آیدی بدید همین",
+    "link_source": "https://mmdcoder.s80.site/UP/sendGuids.py",
+    "type_File": "sadeh",
+    "group_user": "https://rubika.ir/joing/DJHDHGHC0GILGNARXBWJJTWEIEVULOTO",
+    "channel_user": true,
+    "pv_user": true,
+    "CheckFile": "sendGuids.py"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230419_152110_624_4eaz.jpg",
+    "name_source": "مخاطب ساز",
+    "name_programmer": "آرین عباسی",
+    "caption_source": "این سورس مانند برنامه های مخاطب ساز عمل میکند\n\nفقط کافیه\n\nشماره دلخواه\n\nاسم مخاطب\n\nو تعداد مخاطب را وارد کنید",
+    "link_source": "https://mmdcoder.s80.site/UP/Add_Contect.py",
+    "type_File": "sadeh",
+    "group_user": "https://rubika.ir/joing/DJHDHGHC0GILGNARXBWJJTWEIEVULOTO",
+    "channel_user": true,
+    "pv_user": true,
+    "CheckFile": "Add_Contect.py"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230419_152110_624_4eaz.jpg",
+    "name_source": "حذف پیام شیشه ای",
+    "name_programmer": "آرین عباسی",
+    "caption_source": "حذف کننده پیام شیسه ای این سورس توسط تیم آرسین نوشته شده است\n\nاین سورس تمامی پیام های شیشه ای گروه را پاک میکند",
+    "link_source": "https://mmdcoder.s80.site/UP/delete_glass.py",
+    "type_File": "sadeh",
+    "group_user": "https://rubika.ir/joing/DJHDHGHC0GILGNARXBWJJTWEIEVULOTO",
+    "channel_user": true,
+    "pv_user": true,
+    "CheckFile": "delete_glass.py"
   }
 ]
