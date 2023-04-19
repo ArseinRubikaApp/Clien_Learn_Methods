@@ -202,5 +202,17 @@
     "channel_user": "https://rubika.ir/joinc/BJEDFDBE0DLWUDTPSRDQNFIGGQPIOLKL",
     "pv_user": true,
     "CheckFile": "paksazi.py"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230417_201718_548_ef46.jpg",
+    "name_source": "آپلودر",
+    "name_programmer": "طاها | Taha",
+    "caption_source": "آپلودر چنل روبیکا\n\nیکی از بهترین سورس های ما\nنحوه استفاده :\n- اول از همه کتابخانه ها را نصب کنید!\n- فایل requirements.txt باز کنید و کتابخانه ها را مشاهده می‌کنید، یکی یکی نصب کنید.\nبعد که نصب شد، فایل bot.py را باز کرده و در لاین 7 اوت اکانت آپلود کننده را وارد کنید و در لاین 10 گوید چنل را وارد کنید.\nدر صورت وجود هر گونه مشکل به پیوی بنده مراجعه کنید",
+    "link_source": "https://mmdcoder.s80.site/UP/Uploaderrubika.zip",
+    "type_File": "sadeh",
+    "group_user": "https://rubika.ir/joing/DGIABJGH0RXLDEBPKWGUCNMLIFTPDIRE",
+    "channel_user": "https://rubika.ir/joinc/BJEDFDBE0DLWUDTPSRDQNFIGGQPIOLKL",
+    "pv_user": true,
+    "CheckFile": "Uploaderrubika.zip"
   }
 ]
