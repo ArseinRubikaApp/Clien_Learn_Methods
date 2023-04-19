@@ -253,5 +253,10 @@
     "Tavale_video": "ساخت قسمت تماس",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/VL9va/vt/frame",
     "Caption_Sk": "آموزش ساخت برنامه تماس گرفتن در اسکچور"
+  },
+  {
+    "Tavale_video": "لیست ویو سفارشی",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/T4LER/vt/frame",
+    "Caption_Sk": "لیست ویوی سفارشی در اسکچور"
   }
 ]
