@@ -118,5 +118,17 @@
     "channel_user": true,
     "pv_user": "@rAsOuL_aDz",
     "CheckFile": "ForwarderandChatToPv.py "
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230419_152110_624_4eaz.jpg",
+    "name_source": "مدیریت گروه",
+    "name_programmer": "آرین عباسی",
+    "caption_source": "سورس مدیریت گروه دلربا\n\nاین سورس توسط تیم آرسین نوشته شده و کامل است و سرعت مناسبی نیز دارد\n\nفقط کافی است 👇\n\nاوث اکانت\n\nو گوید گروه خود را وارد کنید",
+    "link_source": "https://mmdcoder.s80.site/UP/delroba.zip",
+    "type_File": "sadeh",
+    "group_user": "https://rubika.ir/joing/DJHDHGHC0GILGNARXBWJJTWEIEVULOTO",
+    "channel_user": true,
+    "pv_user": true,
+    "CheckFile": "delroba.zip"
   }
 ]
