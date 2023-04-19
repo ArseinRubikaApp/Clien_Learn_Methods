@@ -159,7 +159,7 @@
     "photo_source": "https://s8.uupload.ir/files/img_20230419_152110_624_4eaz.jpg",
     "name_source": "مخاطب ساز",
     "name_programmer": "آرین عباسی",
-    "caption_source": "این سورس مانند برنامه های مخاطب ساز عمل میکند\n\nفقط کافیه\n\nشماره دلخواه\n\nاسم مخاطب\n\nو تعداد مخاطب را وارد کنید",
+    "caption_source": "این سورس مانند برنامه های مخاطب ساز عمل میکند و توسط تیم آرسین نوشته شده است\n\nفقط کافیه\n\nشماره دلخواه\n\nاسم مخاطب\n\nو تعداد مخاطب را وارد کنید",
     "link_source": "https://mmdcoder.s80.site/UP/Add_Contect.py",
     "type_File": "sadeh",
     "group_user": "https://rubika.ir/joing/DJHDHGHC0GILGNARXBWJJTWEIEVULOTO",
@@ -178,5 +178,17 @@
     "channel_user": true,
     "pv_user": true,
     "CheckFile": "delete_glass.py"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230417_201718_548_ef46.jpg",
+    "name_source": "کامنت زن روبینو",
+    "name_programmer": "طاها | Taha",
+    "caption_source": "کامنت زن پست روبینو\n\nاستفاده خاصی نداره فقط لاین اول را پاک کرده و اوت های خود را وارد کنید.\nکنارش فایلی بنام comments.txt هستش که هر چی دلتون خواست که کامنت بشن رو وارد کنید و سیو را انتخاب کنید",
+    "link_source": "https://mmdcoder.s80.site/UP/commentzan.zip",
+    "type_File": "sadeh",
+    "group_user": "https://rubika.ir/joing/DGIABJGH0RXLDEBPKWGUCNMLIFTPDIRE",
+    "channel_user": "https://rubika.ir/joinc/BJEDFDBE0DLWUDTPSRDQNFIGGQPIOLKL",
+    "pv_user": true,
+    "CheckFile": "commentzan.zip"
   }
 ]
