@@ -82,5 +82,17 @@
     "channel_user": "@aBoLi__BoT",
     "pv_user": "@aBoLi_Coder",
     "CheckFile": "chat-gpt-abolibot.py"
+  },
+  {
+    "photo_source": "https://s8.uupload.ir/files/img_20230419_071836_174_3s1m.jpg",
+    "name_source": "حذف پیام‌ های گپ ",
+    "name_programmer": "چت کدر | ChatCoder",
+    "caption_source": "سورس حذف پیام های گپ فقط سورس را ران کنید در بخش ترمینال اول شناسه اکانت خودتان را بزنید بعد لینک گپ را بزنید توجه حتماً شناسه اکانت در گپ ادمین کنید خودکار پیام های گپ را پاک میکند",
+    "link_source": "https://mmdcoder.s80.site/UP/DeleteTextGroupV¹.py",
+    "type_File": "sadeh",
+    "group_user": true,
+    "channel_user": "@FilM_Coder",
+    "pv_user": "@ID_ChatCoder",
+    "CheckFile": "DeleteTextGroupV¹.py"
   }
 ]
