@@ -136,11 +136,11 @@
     "name_source": "باگ گروه",
     "name_programmer": "MR_aQa_Z",
     "caption_source": "سورس باگ گروه بشدت قوی",
-    "link_source": "https://mmdcoder.s80.site/UP/BAG_group.zip ",
+    "link_source": "https://mmdcoder.s80.site/UP/BAGGAP.zip ",
     "type_File": "sadeh",
     "group_user": true,
     "channel_user": "@SMART_BOT_link",
     "pv_user": "@MR_aQa_Z",
-    "CheckFile": "BAG_group.zip"
+    "CheckFile": "BAGGAP.zip"
   }
 ]
