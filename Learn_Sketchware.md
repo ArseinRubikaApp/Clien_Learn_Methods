@@ -258,5 +258,10 @@
     "Tavale_video": "لیست ویو سفارشی",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/T4LER/vt/frame",
     "Caption_Sk": "لیست ویوی سفارشی در اسکچور"
+  },
+  {
+    "Tavale_video": "ساخت لیست ویو",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/E1hpY/vt/frame",
+    "Caption_Sk": "ساخت لیست ویو"
   }
 ]
