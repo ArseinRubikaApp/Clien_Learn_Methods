@@ -1,6 +1,6 @@
 {
   "start": true,
-  "title": "انجمن فالور روبیکا",
-  "icon": "https://s8.uupload.ir/files/img_20230414_150105_752_cz93.jpg",
-  "goSafeh": "@anjoman_fallower"
+  "title": "گروه آرسین تیم | ArseinTeam",
+  "icon": "https://s8.uupload.ir/files/img_20230419_152110_624_4eaz.jpg",
+  "goSafeh": "https://rubika.ir/joing/DJHDHGHC0GILGNARXBWJJTWEIEVULOTO"
 }
