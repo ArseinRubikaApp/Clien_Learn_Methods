@@ -263,5 +263,10 @@
     "Tavale_video": "ساخت لیست ویو",
     "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/E1hpY/vt/frame",
     "Caption_Sk": "ساخت لیست ویو"
+  },
+  {
+    "Tavale_video": "تغیر رنگ لاینر",
+    "Linkvideo": "https://www.aparat.com/video/video/embed/videohash/hISvl/vt/frame",
+    "Caption_Sk": "تغیر رنگ لاینر از طریق سرور"
   }
 ]
