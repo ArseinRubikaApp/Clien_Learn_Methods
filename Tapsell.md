@@ -1,6 +1,6 @@
 {
   "start": true,
-  "title": "تک سرور | TackServer",
-  "icon": "https://s8.uupload.ir/files/img_20230620_095107_436_frzi.jpg",
-  "goSafeh": "https://rubika.ir/joinc/BIBDGGHF0THWMNCQKZEFATEZVIVSKGXF"
+  "title": "آرسین جدید",
+  "icon": "https://s8.uupload.ir/files/qxmao411c_qa5f.jpg",
+  "goSafeh": "https://rubika.ir/joing/EFIDHGBC0YBHGWQXTSIMRGYCDGRBDPXT"
 }
